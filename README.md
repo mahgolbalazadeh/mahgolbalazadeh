@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/mahgolbalazadeh/mahgolbalazadeh/assets/120247856/463665ae-2182-49d1-b476-4666428634ec" width="400"></br>
+<p align="center"> <img src="https://github.com/mahgolbalazadeh/mahgolbalazadeh/assets/120247856/859c0ad1-a975-4a29-8491-7d56d738086f" width="400"></br>
   I'm Mahgol I'm a final year student pursuing Associate of Mathematics and Applications 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I'm currently into Full stack Web Development 🕸️ and working on python 🐍. I also know a bit about C++.
 </p>
 
@@ -30,8 +30,17 @@
 <a target="blank"><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>&ensp;
 <a target="blank"><img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>&ensp;
 
+<p align="center"> <!--- P tag to align contents -->
+    <a href="https://github.com/mahgolbalazadeh">
+      <img alt="mahgolbalazadeh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mahgolbalazadeh&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px"/>
+    </a>
+    <a href="https://github.com/mahgolbalazadeh"><img alt="mahgolbalazadeh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahgolbalazadeh&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="192px"/>
+    </a>
+  </p>
+
 <div align="center">
-<a target="Blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+<a target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
  <div/> 
   
 <h3 align="center"> 📫 How to reach me:</h3>
