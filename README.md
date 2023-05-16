@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://github.com/mahgolbalazadeh/mahgolbalazadeh/assets/120247856/463665ae-2182-49d1-b476-4666428634ec" width="400"></br>
-  I'm Mahgol I'm a final year student pursuing Associate of Mathematics And Applications 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I'm currently into Full stack Web Development 🕸️ and working on python 🐍. I also know a bit about C++.
+  I'm Mahgol I'm a final year student pursuing Associate of Mathematics and Applications 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I'm currently into Full stack Web Development 🕸️ and working on python 🐍. I also know a bit about C++.
 </p>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
 - 🎓 Studying in **Guilan University**.
-- 💻 Major is **Mathematics And Applications**.
+- 💻 Major is **Mathematics and Applications**.
 - 🌱 I'm currently learning **Web development and Python**. 
 - 🤔 My hobbies are **listening to music 🎵, playing games🎮, reading books📚 and watching movies🎬**.
 - 💬 If you have any questions, **just ask me**.
