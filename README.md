@@ -32,9 +32,9 @@
 
 <p align="center"> <!--- P tag to align contents -->
     <a href="https://github.com/mahgolbalazadeh">
-      <img alt="mahgolbalazadeh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mahgolbalazadeh&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px"/>
+      <img alt="mahgolbalazadeh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mahgolbalazadeh&show_icons=true&count_private=true&layout=compact&theme=gotham" height="180px"/>
     </a>
-    <a href="https://github.com/mahgolbalazadeh"><img alt="mahgolbalazadeh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahgolbalazadeh&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="192px"/>
+    <a href="https://github.com/mahgolbalazadeh"><img alt="mahgolbalazadeh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahgolbalazadeh&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="180px""/>
     </a>
   </p>
 
