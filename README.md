@@ -1,5 +1,4 @@
-<img src=""><br/>
-<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px"><br/>
+<p align="center"> <img src="https://github.com/mahgolbalazadeh/mahgolbalazadeh/assets/120247856/463665ae-2182-49d1-b476-4666428634ec" width="400"></br>
   I'm Mahgol I'm a final year student pursuing Associate of Mathematics And Applications 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I'm currently into Full stack Web Development 🕸️ and working on python 🐍. I also know a bit about C++.
 </p>
 
