@@ -4,8 +4,6 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
-- 🎓 Studying in **Guilan University**.
-- 💻 Major is **Mathematics and Applications**.
 - 🌱 I'm currently learning **Web development and Python**. 
 - 🤔 My hobbies are **listening to music 🎵, playing games🎮, reading books📚 and watching movies🎬**.
 - 💬 If you have any questions, **just ask me**.
