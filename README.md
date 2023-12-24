@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://github.com/mahgolbalazadeh/mahgolbalazadeh/assets/120247856/859c0ad1-a975-4a29-8491-7d56d738086f" width="400"></br>
-  I'm Mahgol I'm a final year student pursuing Associate of Mathematics and Applications 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I'm currently into Full stack Web Development 🕸️ and working on python 🐍. I also know a bit about C++.
+  I'm Mahgol. I'm a passionate learner who's always willing to learn and work across technologies. I'm currently into Full stack Web Development 🕸️ and working on python 🐍. I also know a bit about C++.
 </p>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
