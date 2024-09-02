@@ -44,7 +44,6 @@
 <h3 align="center"> 📫 How to reach me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mahgol-balazadeh-015326226" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="linkedin" height="30" width="30" /></a>&ensp;
-<a href="https://Discordapp.com/users/1085627500580839636" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/discord-round.svg" alt="Discord" height="30" width="30" /></a>&ensp;
-<a href="https://t.me/MahgolBalazade" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/telegram.svg" alt="Telegram" height="30" width="30" /></a>&ensp;
+<a href="https://t.me/MahgolBalazade" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" /></a>&ensp;
 <a href="https://wwww.instagram.com/mahgolbalazade/" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" alt="Instagram" height="30" width="30" /></a>&ensp;
 <a href="https://" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="G-mail" height="30" width="30" /></a>
